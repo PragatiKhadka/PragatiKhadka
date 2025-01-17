@@ -23,3 +23,9 @@ A Data Analyst with the ability to leverage data to derive useful insights for b
 <a href="https://linkedin.com/in/khadkapragati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadkapragati" height="30" width="40" /></a>
 </p>
 
+
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
+
+
